@@ -9010,7 +9010,7 @@ function Od() {
 const Md = ">>";
 function Dd() {
   const e = [
-      "¡Hola Michel! 👋 ",
+      "¡Hola amiga Michel! 👋 ",
       "No pude verte hoy 😔",
       "Sé que tienes que trabajar 😊",
       "pero no dejaría que pase este día ",
