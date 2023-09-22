@@ -9011,12 +9011,12 @@ const Md = ">>";
 function Dd() {
   const e = [
       "Hola Michel...",
-      "No tuve el valor de verte hoy...",
+      "No pude verte hoy...",
       "Sé que tienes que trabajar...",
       "pero no dejaría que...",
       "pase este día...",
       "sin darte tus...",
-      "Florecitas amarillas",
+      "Flores amarillas 🌼🌼🌼",
     ],
     [n, t] = Tt.useState(0),
     [r, l] = Tt.useState(!1);
@@ -9067,10 +9067,10 @@ function Fd() {
       V.jsxs("p", {
         className: "read-the-docs",
         children: [
-          "Tu dale a la flechita",
+          "🌟 Dale a las flechas 🌟  ➡️ ",
           V.jsx("br", {}),
           V.jsx("br", {}),
-          V.jsx("small", { children: "All rights reserved to meow" }),
+          V.jsx("small", { children: "All rights reserved to meow." }),
         ],
       }),
     ],
