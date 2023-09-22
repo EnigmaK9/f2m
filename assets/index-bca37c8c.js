@@ -9000,7 +9000,7 @@ function Od() {
     children: [
       V.jsx("img", {
         className: "your-flowers",
-        src: "https://data.whicdn.com/images/306062171/original.gif",
+        src: "https://gifdb.com/images/high/anime-yellow-dandelion-flowers-zetierjl13z16bxa.gif",
         alt: "",
       }),
       V.jsx("h2", { children: ":)" }),
