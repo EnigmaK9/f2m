@@ -9003,7 +9003,7 @@ function Od() {
         src: "https://gifdb.com/images/high/anime-yellow-dandelion-flowers-zetierjl13z16bxa.gif",
         alt: "",
       }),
-      V.jsx("h2", { children: ":)" }),
+      V.jsx("h2", { children: "😊" }),
     ],
   });
 }
