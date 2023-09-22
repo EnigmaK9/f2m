@@ -9010,13 +9010,13 @@ function Od() {
 const Md = ">>";
 function Dd() {
   const e = [
-      "Hola Michel...",
-      "No pude verte hoy...",
-      "Sé que tienes que trabajar...",
-      "pero no dejaría que...",
-      "pase este día...",
-      "sin darte tus...",
-      "Flores amarillas 🌼🌼🌼",
+      "¡Hola Michel! 👋 ",
+      "No pude verte hoy 😔",
+      "Sé que tienes que trabajar 😊",
+      "pero no dejaría que",
+      "pase este día",
+      "sin darte unas",
+      "🌼🌼🌼 Flores amarillas 🌼🌼🌼",
     ],
     [n, t] = Tt.useState(0),
     [r, l] = Tt.useState(!1);
@@ -9070,7 +9070,7 @@ function Fd() {
           "🌟 Dale a las flechas 🌟  ➡️ ",
           V.jsx("br", {}),
           V.jsx("br", {}),
-          V.jsx("small", { children: "All rights reserved to meow." }),
+          V.jsx("small", { children: "All rights reserved to me." }),
         ],
       }),
     ],
